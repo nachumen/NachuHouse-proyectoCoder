@@ -6,7 +6,7 @@ function App(){
   return (
     <div>
       <NavbarComponent/>
-      <ItemlistConteiner greeting='Welcome to Nachu House'/>
+      <ItemlistConteiner greeting='Welcome to Nachu´s House'/>
     </div>
   )
   
